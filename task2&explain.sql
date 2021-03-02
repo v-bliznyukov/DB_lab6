@@ -11,3 +11,5 @@ GROUP BY store_id
 ORDER BY sum DESC;
 
 --HERE THE SORTING IS THE COSTS THE MOST, AGAIN INDEXING CAN HELP (FOR EXAMPLE, SORTIGN WITH B TREE SEARCH IS LOG(2))
+
+--I didn't quite got the idea of the 'greater amount' in the task, so Ive just sorted by the earned money in the last month)) 
